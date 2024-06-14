@@ -1,5 +1,6 @@
 # 💫 About Me:
-Enthusiastic Learner<br>Passion In Web Development<br>Interested In Full Stack Development<br>Eager In Learning New Technology<br>🌱 I’m currently learning React,Node js, .Net<br>💬 Ask me about React<br>Ready To Debug Errors
+Enthusiastic Learner<br>Passion In Web Development<br>Interested In Full Stack Development<br>Eager In Learning New Technology<br>🌱 I’m currently learning Node js, .Net<br>💬 Ask me about Node
+<br>Ready To Debug Errors
 
 
 ## 🌐 Socials:
